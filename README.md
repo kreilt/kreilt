@@ -29,6 +29,6 @@
 
 ### 📫 Контакты
 
-[Telegram](https://t.me/YOUR_NICK) · [Email](mailto:pogodin-olezhka@inbox.ru)
+[Telegram](https://t.me/mainOleg) · [Email](mailto:pogodin-olezhka@inbox.ru)
 
 <p align="center"><sub>🐈 Код проверен котом</sub></p>
