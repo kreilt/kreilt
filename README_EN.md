@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./warm-banner.svg" alt="Oleg — backend, systems programming and full-stack" width="100%" />
+  <img src="./banner.svg" alt="Oleg — backend, systems programming and full-stack" width="100%" />
 </p>
 
 <p align="center">
@@ -15,8 +15,6 @@
 ---
 
 ### 🧰 Tech stack
-
-*Click an icon to visit the technology's website or documentation.*
 
 <table>
   <tr>
