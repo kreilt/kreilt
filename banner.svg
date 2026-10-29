@@ -1,23 +1,185 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Олег — backend и full-stack разработчик" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpmNThmZTI2Ny1jNzUzLTQyNzYtODZiNS1jNDU4NGRhNWNjMGIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaPIJV5WN6uM2dRT7IGG59IgAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo0MWU2Mjg0ZS02YjU4LTRjMGMtODAxYy0xOTYyMGRkYWY0ZGNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNo0e3ZS0aNOJfwyxItOdNelgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggshqIg0PBX+xhc3Mf1z7US5eJ1ovkgiCQw4nD83sAhI6kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaFa7My7svEw/zLxztipNNdwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBBMTQU79apGl93bkpL31Nhd/m7E9nRKLaMxja6SoW8dmRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjqZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmY1OGZlMjY3LWM3NTMtNDI3Ni04NmI1LWM0NTg0ZGE1Y2MwYi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmU4YWRlNDIyLTVhNmItNDE2Yi1hZmNiLTEwYzE5NjY5ZGIzMnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCyGoiDQ8Ff7GFzcx/XPtRLl4nWi+SCIJDDicPzewCEjqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggq6gkM4i/0rdpc4wD3fk9zSPrcmsIM5MK2u0KSSNonKuiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggE951PODkFNw/ZBXnJmnbzcFNqh82TLZUCOxM83bcZrh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQMYyP28oliDxkuULtjz1jh2ZFGBdVfu56mbBKK+qe4rGRTkkD2eUf6TZVzW2TlhEuvegq2eVhdn0JPxbMB8d3RE=</c2pa:manifest></metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Олег — здесь идеи становятся кодом</title>
+  <desc id="desc">Тёплый кремово-терракотовый баннер программиста Олега. Русский и английский текст чередуются вместе с кодом: на русском показывается пример на 1С и сообщение «Привет, я Олег!», на английском — программа на Go и сообщение «Hi, I'm Oleg!».</desc>
+  <style>
+    .en { opacity: 0; }
+    .lbl-en { fill-opacity: .35; }
+    .ru { animation: showRu 8s linear infinite; }
+    .en { animation: showEn 8s linear infinite; }
+    .lbl-ru { animation: hiRu 8s linear infinite; }
+    .lbl-en { animation: hiEn 8s linear infinite; }
+    @keyframes showRu { 0%, 40% { opacity: 1; } 50%, 90% { opacity: 0; } 100% { opacity: 1; } }
+    @keyframes showEn { 0%, 40% { opacity: 0; } 50%, 90% { opacity: 1; } 100% { opacity: 0; } }
+    @keyframes hiRu { 0%, 40% { fill-opacity: 1; } 50%, 90% { fill-opacity: .35; } 100% { fill-opacity: 1; } }
+    @keyframes hiEn { 0%, 40% { fill-opacity: .35; } 50%, 90% { fill-opacity: 1; } 100% { fill-opacity: .35; } }
+    .steam { animation: steam 2.5s ease-in-out infinite; }
+    .code-mask { width: 0px; }
+    .code-ru { animation: showRu 8s linear infinite; }
+    .code-en { animation: showEn 8s linear infinite; }
+    .rcm1 { animation: revealR1 8s linear infinite; }
+    .rcm2 { animation: revealR2 8s linear infinite; }
+    .rcm3 { animation: revealR3 8s linear infinite; }
+    .rcm4 { animation: revealR4 8s linear infinite; }
+    .rcm5 { animation: revealR5 8s linear infinite; }
+    .rcm6 { animation: revealR6 8s linear infinite; }
+    .rcmd { animation: revealRcmd 8s linear infinite; }
+    .rout { animation: revealRout 8s linear infinite; }
+    .ecm1 { animation: revealE1 8s linear infinite; }
+    .ecm2 { animation: revealE2 8s linear infinite; }
+    .ecm3 { animation: revealE3 8s linear infinite; }
+    .ecm4 { animation: revealE4 8s linear infinite; }
+    .ecm5 { animation: revealE5 8s linear infinite; }
+    .ecm6 { animation: revealE6 8s linear infinite; }
+    .ecmd { animation: revealEcmd 8s linear infinite; }
+    .eout { animation: revealEout 8s linear infinite; }
+    .cursor { animation: cursorBlink .9s steps(2, start) infinite; }
+    @keyframes cursorBlink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    /* Russian 1C example: typed during the Russian title cycle. */
+    @keyframes revealR1 { 0%, 1% { width: 0px; } 5%, 44% { width: 100px; } 50%, 100% { width: 0px; } }
+    @keyframes revealR2 { 4%, 4.5% { width: 0px; } 8%, 44% { width: 120px; } 50%, 100% { width: 0px; } }
+    @keyframes revealR3 { 7%, 7.5% { width: 0px; } 13%, 44% { width: 88px; } 50%, 100% { width: 0px; } }
+    @keyframes revealR4 { 12%, 12.5% { width: 0px; } 17%, 44% { width: 165px; } 50%, 100% { width: 0px; } }
+    @keyframes revealR5 { 16%, 16.5% { width: 0px; } 20%, 44% { width: 110px; } 50%, 100% { width: 0px; } }
+    @keyframes revealR6 { 19%, 19.5% { width: 0px; } 24%, 44% { width: 80px; } 50%, 100% { width: 0px; } }
+    @keyframes revealRcmd { 24%, 24.5% { width: 0px; } 28%, 44% { width: 60px; } 50%, 100% { width: 0px; } }
+    @keyframes revealRout { 28%, 28.5% { width: 0px; } 33%, 44% { width: 90px; } 50%, 100% { width: 0px; } }
+    /* English Go example: typed during the English title cycle. */
+    @keyframes revealE1 { 50%, 50.5% { width: 0px; } 54%, 94% { width: 64px; } 100% { width: 0px; } }
+    @keyframes revealE2 { 53%, 53.5% { width: 0px; } 57%, 94% { width: 64px; } 100% { width: 0px; } }
+    @keyframes revealE3 { 56%, 56.5% { width: 0px; } 60%, 94% { width: 69px; } 100% { width: 0px; } }
+    @keyframes revealE4 { 59%, 59.5% { width: 0px; } 64%, 94% { width: 93px; } 100% { width: 0px; } }
+    @keyframes revealE5 { 63%, 63.5% { width: 0px; } 70%, 94% { width: 190px; } 100% { width: 0px; } }
+    @keyframes revealE6 { 69%, 69.5% { width: 0px; } 72%, 94% { width: 10px; } 100% { width: 0px; } }
+    @keyframes revealEcmd { 73%, 73.5% { width: 0px; } 77%, 94% { width: 55px; } 100% { width: 0px; } }
+    @keyframes revealEout { 77%, 77.5% { width: 0px; } 82%, 94% { width: 95px; } 100% { width: 0px; } }
+
+    @keyframes steam { 0%, 100% { opacity: .35; } 50% { opacity: .9; } }
+    @media (prefers-reduced-motion: reduce) {
+      .ru, .en, .lbl-ru, .lbl-en, .steam, .code-mask, .cursor,
+      .code-ru, .code-en { animation: none; }
+      .code-mask { width: 190px !important; }
+      .code-ru { opacity: 1 !important; }
+      .code-en { opacity: 0 !important; }
+      .cursor { opacity: .9; }
+      .steam { opacity: .9; }
+    }
+  </style>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#3A2418"/>
-      <stop offset="0.55" stop-color="#9A4524"/>
-      <stop offset="1" stop-color="#E0963F"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FBF5EB"/>
+      <stop offset="55%" stop-color="#F0DCC8"/>
+      <stop offset="100%" stop-color="#DEB293"/>
     </linearGradient>
-    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6">
-      <stop offset="0" stop-color="#F6E3C8" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#F6E3C8" stop-opacity="0"/>
-    </radialGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#574137"/>
+      <stop offset="100%" stop-color="#332720"/>
+    </linearGradient>
+    <linearGradient id="laptopBase" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F8EBDD"/>
+      <stop offset="100%" stop-color="#D8B8A0"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <clipPath id="codeClipR1"><rect class="code-mask rcm1" x="847" y="106" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipR2"><rect class="code-mask rcm2" x="847" y="122" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipR3"><rect class="code-mask rcm3" x="847" y="138" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipR4"><rect class="code-mask rcm4" x="847" y="154" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipR5"><rect class="code-mask rcm5" x="847" y="170" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipR6"><rect class="code-mask rcm6" x="847" y="186" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipRcmd"><rect class="code-mask rcmd" x="847" y="212" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipRout"><rect class="code-mask rout" x="847" y="225" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipE1"><rect class="code-mask ecm1" x="847" y="106" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipE2"><rect class="code-mask ecm2" x="847" y="122" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipE3"><rect class="code-mask ecm3" x="847" y="138" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipE4"><rect class="code-mask ecm4" x="847" y="154" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipE5"><rect class="code-mask ecm5" x="847" y="170" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipE6"><rect class="code-mask ecm6" x="847" y="186" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipEcmd"><rect class="code-mask ecmd" x="847" y="212" width="0" height="13"/></clipPath>
+    <clipPath id="codeClipEout"><rect class="code-mask eout" x="847" y="225" width="0" height="13"/></clipPath>
+
   </defs>
-  <rect width="1200" height="240" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="240" rx="18" fill="url(#glow)"/>
-  <circle cx="1040" cy="60" r="150" fill="#F6E3C8" opacity="0.08"/>
-  <circle cx="1130" cy="200" r="110" fill="#3A2418" opacity="0.10"/>
-  <circle cx="900" cy="235" r="70" fill="#F6E3C8" opacity="0.07"/>
-  <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif">
-    <text x="64" y="112" font-size="68" font-weight="700" fill="#F6E3C8">Олег</text>
-    <text x="66" y="158" font-size="28" fill="#F2CFA0">Backend / Full-stack разработчик</text>
-    <text x="66" y="200" font-size="20" fill="#E8B987">Go · Java · C / C++ · Нижний Новгород</text>
+  <rect width="1200" height="320" rx="26" fill="url(#bg)"/>
+  <circle cx="1032" cy="105" r="155" fill="#FFF9F1" opacity=".40"/>
+  <circle cx="1135" cy="280" r="132" fill="#B66B4E" opacity=".10"/>
+  <path d="M0 264 C180 224 300 308 455 274 S735 236 870 280 S1090 295 1200 250 L1200 320 L0 320Z" fill="#B66B4E" opacity=".12"/>
+  <g opacity=".65" fill="#B66B4E">
+    <circle cx="733" cy="55" r="3"/><circle cx="766" cy="78" r="2"/><circle cx="716" cy="101" r="2.5"/>
+    <path d="M760 42 l4 9 9 4 -9 4 -4 9 -4 -9 -9 -4 9 -4z" fill="#FFF9F1"/>
+    <path d="M1133 61 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z" fill="#FFF9F1"/>
+    <path d="M785 230 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z"/>
+  </g>
+  <!-- Language marker: the active language is highlighted -->
+  <g transform="translate(1012 26)">
+    <rect width="132" height="34" rx="17" fill="#FFF8EF" opacity=".82" stroke="#B66B4E" stroke-opacity=".30"/>
+    <circle cx="18" cy="17" r="4" fill="#B66B4E"/>
+    <text x="32" y="22" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.4" fill="#6F4B3C"><tspan class="lbl-ru">RU</tspan> / <tspan class="lbl-en">EN</tspan></text>
+  </g>
+  <g class="ru">
+    <text x="84" y="103" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#A65F43">ЗДЕСЬ ИДЕИ СТАНОВЯТСЯ КОДОМ</text>
+    <text x="80" y="177" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" fill="#46352D">Привет, я Олег.</text>
+    <text x="85" y="220" font-family="Inter, Arial, sans-serif" font-size="20" fill="#74594A">Backend · системное ПО · full-stack</text>
+    <text x="85" y="252" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="0.6" fill="#7A5D4D">Go · Java · C / C++ · Нижний Новгород</text>
+  </g>
+  <g class="en">
+    <text x="84" y="103" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="2.8" fill="#A65F43">WHERE IDEAS BECOME CODE</text>
+    <text x="80" y="177" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700" fill="#46352D">Hi, I'm Oleg.</text>
+    <text x="85" y="220" font-family="Inter, Arial, sans-serif" font-size="20" fill="#74594A">Backend · systems · growing into full-stack</text>
+    <text x="85" y="252" font-family="Inter, Arial, sans-serif" font-size="15" letter-spacing="0.6" fill="#7A5D4D">Go · Java · C / C++ · Nizhny Novgorod</text>
+  </g>
+  <!-- Soft desk shadow -->
+  <ellipse cx="978" cy="289" rx="181" ry="13" fill="#7C5541" opacity=".12"/>
+  <!-- Laptop screen -->
+  <g>
+    <rect x="825" y="96" width="236" height="161" rx="13" fill="#6D5041" opacity=".18" transform="translate(0 4)"/>
+    <rect x="824" y="91" width="236" height="161" rx="13" fill="#5C4438"/>
+    <rect x="833" y="100" width="218" height="143" rx="7" fill="url(#screen)"/>
+    <circle cx="942" cy="95" r="2" fill="#C99A79"/>
+    <!-- The laptop code follows the active language above: 1C in Russian, Go in English. -->
+    <g class="code-ru" font-family="Consolas, 'Courier New', monospace" font-size="8.5" font-weight="600">
+      <text x="850" y="118" fill="#E4AA80" clip-path="url(#codeClipR1)">Перем Имя, Текст;</text>
+      <text x="850" y="134" fill="#E4AA80" clip-path="url(#codeClipR2)">Процедура ПриветОлег()</text>
+      <text x="850" y="150" fill="#F0DDC6" clip-path="url(#codeClipR3)"><tspan fill="#B8C2A8">    Имя</tspan><tspan> = "Олег";</tspan></text>
+      <text x="850" y="166" fill="#F0DDC6" clip-path="url(#codeClipR4)"><tspan fill="#B8C2A8">    Текст</tspan><tspan> = "Привет, я " + Имя;</tspan></text>
+      <text x="850" y="182" fill="#F0DDC6" clip-path="url(#codeClipR5)"><tspan fill="#E4AA80">    Сообщить</tspan><tspan>(Текст);</tspan></text>
+      <text x="850" y="198" fill="#E4AA80" clip-path="url(#codeClipR6)">КонецПроцедуры</text>
+      <path d="M846 210 H1038" stroke="#8C7567" stroke-width=".8" opacity=".55"/>
+      <text x="850" y="224" fill="#E4AA80" clip-path="url(#codeClipRcmd)">&gt; Запуск 1С</text>
+      <text x="850" y="237" fill="#B8C2A8" clip-path="url(#codeClipRout)">✓ Привет, я Олег!</text>
+      <rect class="cursor" x="912" y="216" width="4" height="10" rx=".5" fill="#F0DDC6"/>
+    </g>
+    <g class="code-en" font-family="Consolas, 'Courier New', monospace" font-size="8.5" font-weight="600">
+      <text x="850" y="118" fill="#E4AA80" clip-path="url(#codeClipE1)">package main</text>
+      <text x="850" y="134" fill="#B8C2A8" clip-path="url(#codeClipE2)"><tspan fill="#E4AA80">import</tspan><tspan> "fmt"</tspan></text>
+      <text x="850" y="150" fill="#F0DDC6" clip-path="url(#codeClipE3)"><tspan fill="#E4AA80">func</tspan><tspan> main() {</tspan></text>
+      <text x="850" y="166" fill="#F0DDC6" clip-path="url(#codeClipE4)"><tspan fill="#B8C2A8">    name</tspan><tspan> := "Oleg"</tspan></text>
+      <text x="850" y="182" fill="#F0DDC6" clip-path="url(#codeClipE5)"><tspan fill="#B8C2A8">    fmt.Println</tspan><tspan>("Hi, I'm", name + "!")</tspan></text>
+      <text x="850" y="198" fill="#E4AA80" clip-path="url(#codeClipE6)">}</text>
+      <path d="M846 210 H1038" stroke="#8C7567" stroke-width=".8" opacity=".55"/>
+      <text x="850" y="224" fill="#E4AA80" clip-path="url(#codeClipEcmd)">&gt; go run .</text>
+      <text x="850" y="237" fill="#B8C2A8" clip-path="url(#codeClipEout)">✓ Hi, I'm Oleg!</text>
+      <rect class="cursor" x="904" y="216" width="4" height="10" rx=".5" fill="#F0DDC6"/>
+    </g>
+    <path d="M806 253 L1077 253 L1098 275 Q1100 280 1089 280 L793 280 Q782 280 786 275Z" fill="url(#laptopBase)" stroke="#B28A70" stroke-width="1.6"/>
+    <rect x="913" y="260" width="70" height="4" rx="2" fill="#B58B72" opacity=".7"/>
+  </g>
+  <!-- Coffee mug and a small curl of steam -->
+  <g>
+    <path d="M1084 208 C1100 205 1105 214 1102 225 C1100 235 1093 237 1085 235" fill="none" stroke="#A96548" stroke-width="7" stroke-linecap="round"/>
+    <rect x="1050" y="201" width="42" height="47" rx="7" fill="#B66B4E"/>
+    <ellipse cx="1071" cy="203" rx="21" ry="6" fill="#F5E5D5"/>
+    <ellipse cx="1071" cy="203" rx="15" ry="3.5" fill="#6B4A3A"/>
+    <path d="M1063 189 C1057 181 1067 177 1062 169 M1077 188 C1071 179 1082 175 1077 165" fill="none" stroke="#FFF8EF" stroke-width="3" stroke-linecap="round" opacity=".9" class="steam"/>
+  </g>
+  <!-- Plant in a terracotta pot (no mascot/animal) -->
+  <g transform="translate(1110 115)">
+    <path d="M25 102 C24 78 11 67 3 62 M28 91 C35 69 49 57 60 52 M28 77 C20 58 22 42 29 30 M39 78 C54 71 64 69 72 71" fill="none" stroke="#71806A" stroke-width="4" stroke-linecap="round"/>
+    <ellipse cx="4" cy="58" rx="8" ry="17" transform="rotate(-38 4 58)" fill="#87977A"/>
+    <ellipse cx="60" cy="50" rx="8" ry="17" transform="rotate(36 60 50)" fill="#87977A"/>
+    <ellipse cx="29" cy="28" rx="8" ry="18" transform="rotate(-8 29 28)" fill="#9DAA8B"/>
+    <ellipse cx="72" cy="70" rx="8" ry="16" transform="rotate(68 72 70)" fill="#9DAA8B"/>
+    <path d="M8 100 L55 100 L49 141 Q48 146 42 146 L21 146 Q15 146 14 140Z" fill="#C47A58"/>
+    <ellipse cx="31.5" cy="100" rx="24" ry="6" fill="#E6B18D"/>
+    <path d="M15 111 L48 111" stroke="#D99A76" stroke-width="2" opacity=".6"/>
   </g>
 </svg>
